@@ -15,3 +15,7 @@ You are given a variable 'celsius' representing a temperature in Celsius.  Use t
 ### Relevant Links:
 - [The Order of Operations: PEMDAS](http://www.purplemath.com/modules/orderops.htm)
 - [Order of Operation: Video](https://www.khanacademy.org/math/pre-algebra/order-of-operations/order_of_operations/v/order-of-operations)
+
+### Code Explanation
+- Declare the **fahrenheit** variable.
+- Make sure the proper order of arithmetic operations is followed by using parentheses `()` when needed.
